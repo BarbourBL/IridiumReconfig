@@ -1,0 +1,2 @@
+PAS_Analysis[1].Solution	PAS_Analysis[1].NCAI	PAS_Analysis[1].NCAII	PAS_Analysis[1].NCB	
+1.000000000	1.000000000	0.000000000	1.000000000	

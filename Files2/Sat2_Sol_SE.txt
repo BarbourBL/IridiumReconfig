@@ -1,0 +1,2 @@
+PAS_Analysis[1].Solution	PAS_Analysis[1].NCAI	PAS_Analysis[1].NCAII	PAS_Analysis[1].NCB	PAS_Analysis[1].Roots[0].real	PAS_Analysis[1].Roots[0].imag	PAS_Analysis[1].Roots[1].real	PAS_Analysis[1].Roots[1].imag	PAS_Analysis[1].Roots[2].real	PAS_Analysis[1].Roots[2].imag	
+1.000000000	1.000000000	1.000000000	1.000000000	10.517754421	4.231528492	0.159878330	0.070902980	0.084330742	0.027399473	
